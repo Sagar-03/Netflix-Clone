@@ -35,10 +35,6 @@ Before submitting a pull request, please ensure:
 - Your code follows the established coding style and conventions.
 - You have thoroughly tested your changes to avoid introducing bugs.
 
-## Credits
-
-This project was created by [Your Name]. Special thanks to [Any libraries or resources used] for their contributions.
-
 ## Disclaimer
 
 This project is a demonstration and educational exercise. It is not affiliated with Netflix Inc. and does not provide actual streaming services. All content displayed within the application is for demonstration purposes only.
